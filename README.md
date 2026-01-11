@@ -104,17 +104,6 @@ An interactive dashboard demonstrating the framework is available here:
 
 ---
 
-## Intended Audience
-
-This repository is intended for:
-- Recruiters and hiring managers evaluating quantitative finance capability  
-- Asset management and portfolio construction professionals  
-- Students and researchers interested in applied portfolio optimization  
-
-The project emphasizes **research discipline, transparency, and reproducibility** over production optimization.
-
----
-
 ## Disclaimer
 
 This project is for **educational and research purposes only**.  
